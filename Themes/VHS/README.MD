@@ -1,3 +1,3 @@
 # VHS
 
-Unfinished theme, lack of motivation.
+Finished after months.
