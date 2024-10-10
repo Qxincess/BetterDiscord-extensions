@@ -1,9 +1,10 @@
 /**
- * @name Counter
+ * @name TimeCounter
  * @author VoidArchive
  * @description Check how many hours you wasted on discord.
- * @version 1.0  
+ * @version 1.0
  * @authorId 725560508371173377
+ * @source https://github.com/Javalined/BetterDiscord-extensions/tree/main/Plugins/TimeCounter
  **/
 
 module.exports = class Counter {
