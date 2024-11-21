@@ -1,3 +1,3 @@
 # VHS
 
-Finished after months.
+Just another boring theme
