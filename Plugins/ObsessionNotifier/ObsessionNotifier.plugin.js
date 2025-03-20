@@ -4,7 +4,7 @@
  * @version 1.0.0
  * @authorId 725560508371173377
  * @description Alerts you whenever your obsession sends a message (It's actually inspired by DBD Obsession perks lol)
- * @source 
+ * @source https://github.com/Qxincess/BetterDiscord-extensions/tree/main/Plugins/ObsessionNotifier
  */
 
 const config = {
